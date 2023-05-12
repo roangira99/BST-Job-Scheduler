@@ -1,6 +1,7 @@
 4:30,30,Price Loader
 3:00,15,Load Transactions
 8:30,90,Balance Sheet
+10:30,15,DB Maintenance
 1:30,60,Web Refresh
 15:00,20,Transaction Validator
 18:00,75,Batch Process
